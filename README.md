@@ -1,2 +1,2 @@
 # Image-Convolution
-A program that filters to images using kernel matrices.
+A program that adds filters to images using kernel matrices.
